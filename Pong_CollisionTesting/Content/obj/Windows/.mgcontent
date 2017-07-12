@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Samuel/Documents/Stuff to sort for gh/Pong_CollisionTesting/Pong_CollisionTesting/Content/Score.spritefont</File>
+    <File>C:/Users/Samuel/Documents/Stuff to sort for gh/Pong_CollisionTesting/Pong_CollisionTesting/Content/stars.jpg</File>
+    <File>C:/Users/Samuel/Documents/Stuff to sort for gh/Pong_CollisionTesting/Pong_CollisionTesting/Content/background.png</File>
+    <File>C:/Users/Samuel/Documents/Stuff to sort for gh/Pong_CollisionTesting/Pong_CollisionTesting/Content/exit.png</File>
+    <File>C:/Users/Samuel/Documents/Stuff to sort for gh/Pong_CollisionTesting/Pong_CollisionTesting/Content/start.png</File>
+    <File>C:/Users/Samuel/Documents/Stuff to sort for gh/Pong_CollisionTesting/Pong_CollisionTesting/Content/loading.png</File>
+    <File>C:/Users/Samuel/Documents/Stuff to sort for gh/Pong_CollisionTesting/Pong_CollisionTesting/Content/wall.png</File>
+    <File>C:/Users/Samuel/Documents/Stuff to sort for gh/Pong_CollisionTesting/Pong_CollisionTesting/Content/paddle.png</File>
+    <File>C:/Users/Samuel/Documents/Stuff to sort for gh/Pong_CollisionTesting/Pong_CollisionTesting/Content/ball.png</File>
+  </SourceFiles>
+</SourceFileCollection>

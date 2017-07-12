@@ -1,0 +1,102 @@
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\ball.xnb
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\paddle.xnb
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\wall.xnb
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Pong_CollisionTesting.exe
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Pong_CollisionTesting.pdb
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.dll
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.xml
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\obj\x86\Debug\Pong_CollisionTesting.csprojResolveAssemblyReference.cache
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\obj\x86\Debug\Pong_CollisionTesting.exe
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\obj\x86\Debug\Pong_CollisionTesting.pdb
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\Score.xnb
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\stars.xnb
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\exit.xnb
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\loading.xnb
+c:\users\samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\start.xnb
+C:\Users\Samuel\documents\visual studio 2015\Projects\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\background.xnb
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\background.xnb
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\ball.xnb
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\exit.xnb
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\loading.xnb
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\paddle.xnb
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\Score.xnb
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\stars.xnb
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\start.xnb
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\wall.xnb
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Pong_CollisionTesting.exe
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Pong_CollisionTesting.pdb
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.dll
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.xml
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\obj\x86\Debug\Pong_CollisionTesting.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\obj\x86\Debug\Pong_CollisionTesting.exe
+C:\Users\Samuel\Desktop\Make it look Organised\Code Resources\Pong_CollisionTesting\Pong_CollisionTesting\obj\x86\Debug\Pong_CollisionTesting.pdb
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\obj\x86\Debug\Pong_CollisionTesting.exe
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\obj\x86\Debug\Pong_CollisionTesting.pdb
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\background.xnb
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\ball.xnb
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\exit.xnb
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\loading.xnb
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\paddle.xnb
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\Score.xnb
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\stars.xnb
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\start.xnb
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Content\wall.xnb
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Pong_CollisionTesting.exe
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\Pong_CollisionTesting.pdb
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.dll
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.xml
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Samuel\Documents\Stuff to sort for gh\Pong_CollisionTesting\Pong_CollisionTesting\obj\x86\Debug\Pong_CollisionTesting.csprojResolveAssemblyReference.cache
